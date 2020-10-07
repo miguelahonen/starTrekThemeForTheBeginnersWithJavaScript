@@ -1,1 +1,1 @@
-The starting point of StarTrek series of minigames. The Rock, Paper and Scissors Game will get expanded rule set and simple user interface
+The starting point in a series of StarTrek mini games. The Rock, Paper and Scissors Game will get the expanded rule set and simple user interface
